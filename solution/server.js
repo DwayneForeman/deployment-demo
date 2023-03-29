@@ -7,4 +7,4 @@ app.use(express.static(`${__dirname}/public`));
 
 app.get("/api/cat", (req, res) => res.send("barb"));
 
-app.listen(4000, () => console.log(`server running on 4000`));
+app.listen(4000, () => console.log(`LFGGGG!! on 4000`));
